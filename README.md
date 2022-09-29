@@ -1,3 +1,1 @@
-# public_repository
-
-## this is my new feature
+# public_repository     no conflicts
